@@ -40,7 +40,7 @@ email: melanymero7@gmail.com
 avatar: ./assets/images/17bee507-6c2f-4a56-a3e8-48fdfc38e486.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/blog3" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
